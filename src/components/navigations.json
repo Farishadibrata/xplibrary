@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Etc.",
+        "children": [
+            {
+                "title": "About",
+                "slug": "/etc/about"
+            },
+            {
+                "title": "Tools",
+                "slug": "/etc/tools"
+            },
+            {
+                "title": "FAQ",
+                "slug": "/etc/faq"
+            }
+        ]
+    },
+    {
+        "title": "Javascripts",
+        "children": [
+            {
+                "title": "Basics",
+                "slug": "/js/basics"
+            },
+            {
+                "title": "Array",
+                "slug": "/js/array"
+            }
+        ]
+    },
+    {
+        "title": "React",
+        "children": [
+            {
+                "title": "Basics",
+                "slug": "/react/basics"
+            },
+            {
+                "title": "Libraries",
+                "slug": "/react/libraries"
+            }
+        ]
+    }
+
+]
